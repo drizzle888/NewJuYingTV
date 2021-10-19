@@ -1,0 +1,45 @@
+
+{
+  "data": [
+    {
+      "title": "说明",
+      "url": "https://",
+      "desc": "查看",
+      "img": "https://",
+      "scanDesc": "",
+      "show": false,
+      "isGoods": false,
+      "goodsId": "614895243709"
+    },
+    {
+      "title": "公告",
+      "url": "https://",
+      "desc": "查看",
+      "img": "https://",
+      "scanDesc": "",
+      "show": false,
+      "isGoods": false,
+      "goodsId": "614895243709"
+    },
+    {
+      "title": "公告",
+      "url": "https://",
+      "desc": "",
+      "img": "https://",
+      "scanDesc": "",
+      "show": false,
+      "isGoods": false,
+      "goodsId": "614895243709"
+    },
+    {
+      "title": "天猫",
+      "url": "http://",
+      "desc": "教程",
+      "img": "https://",
+      "scanDesc": "",
+      "show": false,
+      "isGoods": false,
+      "goodsId": "614895243709"
+    }
+  ]
+}
